@@ -1,0 +1,50 @@
+Parameter-settings: 
+
+--inputfile          instances/dsj1000-thop/dsj1000_10_unc_01_01.thop
+--outputfile         solutions/acothop*/dsj1000-thop/dsj1000_10_unc_01_01_02.thop.sol
+--tries              1
+--tours              0
+--ptries             1
+--time               998.00
+--seed               126489
+--optimum            1
+--ants               200
+--nnants             20
+--alpha              0.88
+--beta               7.34
+--rho                0.43
+--q0                 0.00
+--elitistants        0
+--rasranks           0
+--localsearch        0
+--nnls               20
+--dlb                1
+--as                 0
+--eas                0
+--ras                0
+--mmas               1
+--bwas               0
+--acs                0
+
+
+begin try 0 
+best     661643,        iteration:          1,        time      10.12
+best     682356,        iteration:          2,        time      20.40
+best     694401,        iteration:          3,        time      30.87
+best     718547,        iteration:          8,        time      82.69
+best     723813,        iteration:         12,        time     123.32
+best     728177,        iteration:         13,        time     133.84
+best     751811,        iteration:         15,        time     154.75
+best     773041,        iteration:         19,        time     197.44
+best     777698,        iteration:         35,        time     370.34
+best     779535,        iteration:         36,        time     381.31
+best     786167,        iteration:         37,        time     392.35
+best     790947,        iteration:         39,        time     414.54
+best     802987,        iteration:         42,        time     448.20
+best     818472,        iteration:         43,        time     459.20
+best     827943,        iteration:         79,        time     848.68
+best     830951,        iteration:         84,        time     902.20
+end try 0 
+
+
+try          0,        best     830951,        found at iteration         84,        found at time     902.20

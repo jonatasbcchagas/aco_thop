@@ -1,0 +1,50 @@
+Parameter-settings: 
+
+--inputfile          instances/eil51-thop/eil51_05_usw_10_02.thop
+--outputfile         solutions/acothop*/eil51-thop/eil51_05_usw_10_02_03.thop.sol
+--tries              1
+--tours              0
+--ptries             1
+--time               25.00
+--seed               644764
+--optimum            1
+--ants               1000
+--nnants             20
+--alpha              0.79
+--beta               4.36
+--rho                0.83
+--q0                 0.00
+--elitistants        0
+--rasranks           0
+--localsearch        0
+--nnls               20
+--dlb                1
+--as                 0
+--eas                0
+--ras                0
+--mmas               1
+--bwas               0
+--acs                0
+
+
+begin try 0 
+best      71962,        iteration:          1,        time       0.34
+best      76657,        iteration:          2,        time       0.71
+best      83996,        iteration:          3,        time       1.07
+best      85994,        iteration:          4,        time       1.45
+best      86283,        iteration:          5,        time       1.81
+best      86857,        iteration:          7,        time       2.58
+best      88845,        iteration:          9,        time       3.31
+best      88980,        iteration:         10,        time       3.69
+best      89070,        iteration:         11,        time       4.08
+best      89303,        iteration:         12,        time       4.45
+best      89583,        iteration:         15,        time       5.59
+best      89847,        iteration:         16,        time       5.97
+best      90089,        iteration:         17,        time       6.35
+best      90300,        iteration:         28,        time      10.56
+best      90468,        iteration:         33,        time      12.47
+best      90972,        iteration:         34,        time      12.86
+end try 0 
+
+
+try          0,        best      90972,        found at iteration         34,        found at time      12.86

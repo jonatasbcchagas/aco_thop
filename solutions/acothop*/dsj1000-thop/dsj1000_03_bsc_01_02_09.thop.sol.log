@@ -1,0 +1,50 @@
+Parameter-settings: 
+
+--inputfile          instances/dsj1000-thop/dsj1000_03_bsc_01_02.thop
+--outputfile         solutions/acothop*/dsj1000-thop/dsj1000_03_bsc_01_02_09.thop.sol
+--tries              1
+--tours              0
+--ptries             1
+--time               300.00
+--seed               756112
+--optimum            1
+--ants               500
+--nnants             20
+--alpha              2.21
+--beta               6.67
+--rho                0.27
+--q0                 0.00
+--elitistants        0
+--rasranks           0
+--localsearch        0
+--nnls               20
+--dlb                1
+--as                 0
+--eas                0
+--ras                0
+--mmas               1
+--bwas               0
+--acs                0
+
+
+begin try 0 
+best     312003,        iteration:          1,        time       6.17
+best     316411,        iteration:          2,        time      12.39
+best     320312,        iteration:          4,        time      24.72
+best     321432,        iteration:          7,        time      43.08
+best     325897,        iteration:          9,        time      55.63
+best     326712,        iteration:         11,        time      67.97
+best     330800,        iteration:         12,        time      73.92
+best     332756,        iteration:         18,        time     106.96
+best     334285,        iteration:         19,        time     111.99
+best     335829,        iteration:         20,        time     116.96
+best     336199,        iteration:         21,        time     122.11
+best     336491,        iteration:         22,        time     127.08
+best     336510,        iteration:         23,        time     132.04
+best     337004,        iteration:         24,        time     136.73
+best     337211,        iteration:         37,        time     197.18
+best     337303,        iteration:         39,        time     206.31
+end try 0 
+
+
+try          0,        best     337303,        found at iteration         39,        found at time     206.31

@@ -1,0 +1,50 @@
+Parameter-settings: 
+
+--inputfile          instances/dsj1000-thop/dsj1000_03_unc_10_03.thop
+--outputfile         solutions/acothop*/dsj1000-thop/dsj1000_03_unc_10_03_00.thop.sol
+--tries              1
+--tours              0
+--ptries             4
+--time               300.00
+--seed               269070
+--optimum            1
+--ants               100
+--nnants             20
+--alpha              2.74
+--beta               5.89
+--rho                0.16
+--q0                 0.00
+--elitistants        0
+--rasranks           0
+--localsearch        0
+--nnls               20
+--dlb                1
+--as                 0
+--eas                0
+--ras                0
+--mmas               1
+--bwas               0
+--acs                0
+
+
+begin try 0 
+best    1073887,        iteration:          1,        time      11.16
+best    1100145,        iteration:          2,        time      22.12
+best    1118568,        iteration:          4,        time      44.33
+best    1157932,        iteration:          6,        time      66.77
+best    1162036,        iteration:          9,        time     100.36
+best    1175317,        iteration:         10,        time     111.56
+best    1207987,        iteration:         12,        time     134.08
+best    1211573,        iteration:         15,        time     168.02
+best    1218374,        iteration:         18,        time     202.19
+best    1222253,        iteration:         19,        time     213.57
+best    1253258,        iteration:         20,        time     224.98
+best    1256040,        iteration:         22,        time     247.98
+best    1257145,        iteration:         23,        time     259.36
+best    1258962,        iteration:         24,        time     270.50
+best    1259303,        iteration:         25,        time     281.75
+best    1262073,        iteration:         27,        time     304.23
+end try 0 
+
+
+try          0,        best    1262073,        found at iteration         27,        found at time     304.22

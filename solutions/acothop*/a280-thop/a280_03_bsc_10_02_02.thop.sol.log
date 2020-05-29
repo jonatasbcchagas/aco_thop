@@ -1,0 +1,49 @@
+Parameter-settings: 
+
+--inputfile          instances/a280-thop/a280_03_bsc_10_02.thop
+--outputfile         solutions/acothop*/a280-thop/a280_03_bsc_10_02_02.thop.sol
+--tries              1
+--tours              0
+--ptries             2
+--time               84.00
+--seed               126489
+--optimum            1
+--ants               50
+--nnants             20
+--alpha              0.75
+--beta               6.16
+--rho                0.40
+--q0                 0.00
+--elitistants        0
+--rasranks           0
+--localsearch        0
+--nnls               20
+--dlb                1
+--as                 0
+--eas                0
+--ras                0
+--mmas               1
+--bwas               0
+--acs                0
+
+
+begin try 0 
+best     526630,        iteration:          8,        time       1.45
+best     534634,        iteration:         20,        time       3.69
+best     544514,        iteration:         21,        time       3.88
+best     555644,        iteration:         27,        time       5.02
+best     563359,        iteration:         35,        time       6.50
+best     574732,        iteration:         44,        time       8.17
+best     590418,        iteration:         57,        time      10.67
+best     593807,        iteration:         87,        time      16.49
+best     596553,        iteration:        127,        time      24.31
+best     597128,        iteration:        159,        time      30.51
+best     607750,        iteration:        160,        time      30.71
+best     609870,        iteration:        163,        time      31.32
+best     611645,        iteration:        227,        time      44.25
+best     611728,        iteration:        329,        time      64.88
+best     613087,        iteration:        361,        time      71.28
+end try 0 
+
+
+try          0,        best     613087,        found at iteration        361,        found at time      71.28

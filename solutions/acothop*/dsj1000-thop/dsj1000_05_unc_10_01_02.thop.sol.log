@@ -1,0 +1,50 @@
+Parameter-settings: 
+
+--inputfile          instances/dsj1000-thop/dsj1000_05_unc_10_01.thop
+--outputfile         solutions/acothop*/dsj1000-thop/dsj1000_05_unc_10_01_02.thop.sol
+--tries              1
+--tours              0
+--ptries             2
+--time               499.00
+--seed               126489
+--optimum            1
+--ants               200
+--nnants             20
+--alpha              5.17
+--beta               7.26
+--rho                0.07
+--q0                 0.00
+--elitistants        0
+--rasranks           0
+--localsearch        0
+--nnls               20
+--dlb                1
+--as                 0
+--eas                0
+--ras                0
+--mmas               1
+--bwas               0
+--acs                0
+
+
+begin try 0 
+best     876919,        iteration:          1,        time      10.14
+best     895117,        iteration:          2,        time      20.15
+best     895451,        iteration:          3,        time      30.51
+best     904624,        iteration:          4,        time      40.83
+best     906400,        iteration:          5,        time      51.30
+best    1037110,        iteration:          6,        time      61.71
+best    1074716,        iteration:         11,        time     113.98
+best    1077726,        iteration:         20,        time     209.16
+best    1172943,        iteration:         21,        time     219.94
+best    1177708,        iteration:         22,        time     230.69
+best    1204971,        iteration:         23,        time     241.67
+best    1215026,        iteration:         27,        time     286.67
+best    1221817,        iteration:         31,        time     333.05
+best    1229072,        iteration:         32,        time     344.76
+best    1233161,        iteration:         33,        time     356.48
+best    1236220,        iteration:         44,        time     485.31
+end try 0 
+
+
+try          0,        best    1236220,        found at iteration         44,        found at time     485.31

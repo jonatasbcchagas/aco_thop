@@ -1,0 +1,60 @@
+Parameter-settings: 
+
+--inputfile          instances/dsj1000-thop/dsj1000_03_usw_01_02.thop
+--outputfile         solutions/acothop*/dsj1000-thop/dsj1000_03_usw_01_02_04.thop.sol
+--tries              1
+--tours              0
+--ptries             1
+--time               300.00
+--seed               547617
+--optimum            1
+--ants               100
+--nnants             20
+--alpha              0.82
+--beta               8.71
+--rho                0.35
+--q0                 0.00
+--elitistants        0
+--rasranks           0
+--localsearch        0
+--nnls               20
+--dlb                1
+--as                 0
+--eas                0
+--ras                0
+--mmas               1
+--bwas               0
+--acs                0
+
+
+begin try 0 
+best     168935,        iteration:          1,        time       1.08
+best     169519,        iteration:          6,        time       6.47
+best     171932,        iteration:         11,        time      11.82
+best     176821,        iteration:         12,        time      12.89
+best     182969,        iteration:         26,        time      28.17
+best     185884,        iteration:         29,        time      31.44
+best     189261,        iteration:         31,        time      33.66
+best     195751,        iteration:         32,        time      34.78
+best     196442,        iteration:        114,        time     118.14
+best     197434,        iteration:        115,        time     119.15
+best     197862,        iteration:        118,        time     121.80
+best     199532,        iteration:        121,        time     124.51
+best     201024,        iteration:        145,        time     147.04
+best     202346,        iteration:        146,        time     147.89
+best     202556,        iteration:        151,        time     152.14
+best     202741,        iteration:        152,        time     153.10
+best     202866,        iteration:        154,        time     154.97
+best     203064,        iteration:        163,        time     162.74
+best     203119,        iteration:        167,        time     166.29
+best     203124,        iteration:        174,        time     172.45
+best     203550,        iteration:        179,        time     177.09
+best     203712,        iteration:        193,        time     189.47
+best     203920,        iteration:        199,        time     195.16
+best     203959,        iteration:        215,        time     209.05
+best     204133,        iteration:        250,        time     236.51
+best     205095,        iteration:        279,        time     260.35
+end try 0 
+
+
+try          0,        best     205095,        found at iteration        279,        found at time     260.35

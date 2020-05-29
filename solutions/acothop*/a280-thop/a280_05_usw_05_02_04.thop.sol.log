@@ -1,0 +1,79 @@
+Parameter-settings: 
+
+--inputfile          instances/a280-thop/a280_05_usw_05_02.thop
+--outputfile         solutions/acothop*/a280-thop/a280_05_usw_05_02_04.thop.sol
+--tries              1
+--tours              0
+--ptries             1
+--time               139.00
+--seed               547617
+--optimum            1
+--ants               200
+--nnants             20
+--alpha              0.93
+--beta               4.86
+--rho                0.26
+--q0                 0.00
+--elitistants        0
+--rasranks           0
+--localsearch        0
+--nnls               20
+--dlb                1
+--as                 0
+--eas                0
+--ras                0
+--mmas               1
+--bwas               0
+--acs                0
+
+
+begin try 0 
+best     303964,        iteration:          7,        time       4.02
+best     304100,        iteration:          8,        time       4.60
+best     311575,        iteration:         12,        time       6.93
+best     315889,        iteration:         17,        time       9.87
+best     320060,        iteration:         19,        time      11.04
+best     327049,        iteration:         27,        time      15.70
+best     327579,        iteration:         28,        time      16.29
+best     329183,        iteration:         29,        time      16.88
+best     335724,        iteration:         35,        time      20.40
+best     337938,        iteration:         55,        time      32.09
+best     339346,        iteration:         59,        time      34.45
+best     340607,        iteration:         66,        time      38.57
+best     340789,        iteration:         71,        time      41.56
+best     341127,        iteration:         72,        time      42.15
+best     341969,        iteration:         75,        time      43.96
+best     343274,        iteration:         82,        time      48.25
+best     343591,        iteration:         83,        time      48.87
+best     343767,        iteration:         84,        time      49.49
+best     343979,        iteration:         86,        time      50.71
+best     344155,        iteration:         89,        time      52.58
+best     344469,        iteration:         91,        time      53.82
+best     344786,        iteration:         94,        time      55.68
+best     344927,        iteration:         97,        time      57.56
+best     345560,        iteration:         99,        time      58.78
+best     345998,        iteration:        100,        time      59.40
+best     346591,        iteration:        110,        time      65.65
+best     346616,        iteration:        113,        time      67.52
+best     347891,        iteration:        115,        time      68.78
+best     348061,        iteration:        116,        time      69.40
+best     348462,        iteration:        118,        time      70.66
+best     348520,        iteration:        119,        time      71.29
+best     348632,        iteration:        122,        time      73.19
+best     350171,        iteration:        123,        time      73.81
+best     350585,        iteration:        154,        time      93.11
+best     351437,        iteration:        157,        time      94.97
+best     351566,        iteration:        158,        time      95.59
+best     351740,        iteration:        161,        time      97.44
+best     352357,        iteration:        168,        time     101.80
+best     352538,        iteration:        169,        time     102.43
+best     353209,        iteration:        170,        time     103.05
+best     359193,        iteration:        181,        time     109.94
+best     360557,        iteration:        184,        time     111.78
+best     360672,        iteration:        187,        time     113.62
+best     362240,        iteration:        193,        time     117.31
+best     362314,        iteration:        199,        time     121.07
+end try 0 
+
+
+try          0,        best     362314,        found at iteration        199,        found at time     121.07

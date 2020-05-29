@@ -1,0 +1,44 @@
+Parameter-settings: 
+
+--inputfile          instances/dsj1000-thop/dsj1000_05_unc_05_02.thop
+--outputfile         solutions/acothop*/dsj1000-thop/dsj1000_05_unc_05_02_08.thop.sol
+--tries              1
+--tours              0
+--ptries             2
+--time               499.00
+--seed               858990
+--optimum            1
+--ants               200
+--nnants             20
+--alpha              5.17
+--beta               7.26
+--rho                0.07
+--q0                 0.00
+--elitistants        0
+--rasranks           0
+--localsearch        0
+--nnls               20
+--dlb                1
+--as                 0
+--eas                0
+--ras                0
+--mmas               1
+--bwas               0
+--acs                0
+
+
+begin try 0 
+best    1034300,        iteration:          1,        time      14.97
+best    1084644,        iteration:          3,        time      44.69
+best    1099881,        iteration:         13,        time     196.49
+best    1122697,        iteration:         14,        time     212.03
+best    1144035,        iteration:         16,        time     243.20
+best    1144396,        iteration:         25,        time     391.24
+best    1151203,        iteration:         27,        time     424.53
+best    1161406,        iteration:         28,        time     441.36
+best    1176034,        iteration:         30,        time     475.14
+best    1176220,        iteration:         32,        time     509.32
+end try 0 
+
+
+try          0,        best    1176220,        found at iteration         32,        found at time     509.32

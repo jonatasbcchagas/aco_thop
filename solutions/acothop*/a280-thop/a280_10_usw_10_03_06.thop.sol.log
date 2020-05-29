@@ -1,0 +1,79 @@
+Parameter-settings: 
+
+--inputfile          instances/a280-thop/a280_10_usw_10_03.thop
+--outputfile         solutions/acothop*/a280-thop/a280_10_usw_10_03_06.thop.sol
+--tries              1
+--tours              0
+--ptries             1
+--time               278.00
+--seed               73456
+--optimum            1
+--ants               200
+--nnants             20
+--alpha              0.78
+--beta               6.79
+--rho                0.58
+--q0                 0.00
+--elitistants        0
+--rasranks           0
+--localsearch        0
+--nnls               20
+--dlb                1
+--as                 0
+--eas                0
+--ras                0
+--mmas               1
+--bwas               0
+--acs                0
+
+
+begin try 0 
+best    1024488,        iteration:          1,        time       1.59
+best    1028281,        iteration:          2,        time       3.19
+best    1048108,        iteration:          5,        time       7.99
+best    1078535,        iteration:          6,        time       9.59
+best    1109702,        iteration:          8,        time      12.83
+best    1139918,        iteration:          9,        time      14.43
+best    1146070,        iteration:         10,        time      16.05
+best    1157990,        iteration:         13,        time      20.90
+best    1158554,        iteration:         15,        time      24.14
+best    1170273,        iteration:         16,        time      25.78
+best    1170695,        iteration:         17,        time      27.41
+best    1177630,        iteration:         19,        time      30.65
+best    1177643,        iteration:         21,        time      33.86
+best    1178703,        iteration:         22,        time      35.51
+best    1178971,        iteration:         23,        time      37.15
+best    1179197,        iteration:         25,        time      40.35
+best    1179205,        iteration:         34,        time      54.97
+best    1180082,        iteration:         47,        time      76.16
+best    1183137,        iteration:         48,        time      77.79
+best    1191162,        iteration:         49,        time      79.43
+best    1192109,        iteration:         50,        time      81.09
+best    1196538,        iteration:         51,        time      82.73
+best    1197519,        iteration:         63,        time     102.28
+best    1198022,        iteration:         64,        time     103.90
+best    1198023,        iteration:         65,        time     105.54
+best    1198079,        iteration:         66,        time     107.18
+best    1198187,        iteration:         72,        time     117.01
+best    1198466,        iteration:         73,        time     118.65
+best    1200786,        iteration:         75,        time     121.94
+best    1200884,        iteration:         94,        time     153.19
+best    1200890,        iteration:         96,        time     156.47
+best    1200950,        iteration:         97,        time     158.12
+best    1200954,        iteration:        103,        time     167.98
+best    1200970,        iteration:        108,        time     176.22
+best    1204819,        iteration:        113,        time     184.37
+best    1205500,        iteration:        114,        time     186.01
+best    1205540,        iteration:        115,        time     187.68
+best    1206225,        iteration:        120,        time     195.90
+best    1206609,        iteration:        124,        time     202.47
+best    1206626,        iteration:        127,        time     207.39
+best    1208584,        iteration:        128,        time     209.04
+best    1210052,        iteration:        129,        time     210.66
+best    1210218,        iteration:        130,        time     212.30
+best    1210267,        iteration:        133,        time     217.23
+best    1210324,        iteration:        159,        time     259.86
+end try 0 
+
+
+try          0,        best    1210324,        found at iteration        159,        found at time     259.86

@@ -1,0 +1,53 @@
+Parameter-settings: 
+
+--inputfile          instances/a280-thop/a280_05_bsc_10_03.thop
+--outputfile         solutions/acothop*/a280-thop/a280_05_bsc_10_03_05.thop.sol
+--tries              1
+--tours              0
+--ptries             1
+--time               139.00
+--seed               642580
+--optimum            1
+--ants               200
+--nnants             20
+--alpha              0.82
+--beta               7.91
+--rho                0.37
+--q0                 0.00
+--elitistants        0
+--rasranks           0
+--localsearch        0
+--nnls               20
+--dlb                1
+--as                 0
+--eas                0
+--ras                0
+--mmas               1
+--bwas               0
+--acs                0
+
+
+begin try 0 
+best    1016133,        iteration:          1,        time       1.51
+best    1058830,        iteration:          2,        time       3.03
+best    1074626,        iteration:          5,        time       7.58
+best    1079783,        iteration:         11,        time      16.71
+best    1107270,        iteration:         16,        time      24.27
+best    1110651,        iteration:         17,        time      25.76
+best    1118879,        iteration:         23,        time      34.94
+best    1131952,        iteration:         27,        time      41.06
+best    1132346,        iteration:         30,        time      45.70
+best    1145107,        iteration:         34,        time      51.87
+best    1149141,        iteration:         45,        time      68.87
+best    1152906,        iteration:         55,        time      84.25
+best    1154614,        iteration:         56,        time      85.80
+best    1165762,        iteration:         57,        time      87.35
+best    1169071,        iteration:         67,        time     102.65
+best    1169224,        iteration:         70,        time     107.27
+best    1189671,        iteration:         71,        time     108.79
+best    1190041,        iteration:         73,        time     111.88
+best    1198648,        iteration:         82,        time     125.87
+end try 0 
+
+
+try          0,        best    1198648,        found at iteration         82,        found at time     125.87

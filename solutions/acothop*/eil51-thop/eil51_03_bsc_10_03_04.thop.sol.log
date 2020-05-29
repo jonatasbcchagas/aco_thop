@@ -1,0 +1,57 @@
+Parameter-settings: 
+
+--inputfile          instances/eil51-thop/eil51_03_bsc_10_03.thop
+--outputfile         solutions/acothop*/eil51-thop/eil51_03_bsc_10_03_04.thop.sol
+--tries              1
+--tours              0
+--ptries             1
+--time               15.00
+--seed               547617
+--optimum            1
+--ants               50
+--nnants             20
+--alpha              1.00
+--beta               3.81
+--rho                0.37
+--q0                 0.00
+--elitistants        0
+--rasranks           0
+--localsearch        0
+--nnls               20
+--dlb                1
+--as                 0
+--eas                0
+--ras                0
+--mmas               1
+--bwas               0
+--acs                0
+
+
+begin try 0 
+best      99321,        iteration:          1,        time       0.01
+best      99417,        iteration:          2,        time       0.01
+best     100966,        iteration:          3,        time       0.02
+best     107097,        iteration:          5,        time       0.03
+best     110933,        iteration:          7,        time       0.05
+best     111215,        iteration:          8,        time       0.05
+best     116692,        iteration:         12,        time       0.08
+best     117974,        iteration:         13,        time       0.08
+best     120095,        iteration:         14,        time       0.09
+best     127965,        iteration:         16,        time       0.10
+best     128029,        iteration:         22,        time       0.14
+best     128033,        iteration:         23,        time       0.15
+best     128122,        iteration:         33,        time       0.21
+best     128209,        iteration:         34,        time       0.22
+best     128291,        iteration:         39,        time       0.25
+best     129159,        iteration:         58,        time       0.38
+best     129241,        iteration:         70,        time       0.45
+best     129259,        iteration:         84,        time       0.54
+best     129508,        iteration:        546,        time       3.52
+best     131124,        iteration:        547,        time       3.52
+best     131724,        iteration:        566,        time       3.64
+best     131886,        iteration:        569,        time       3.66
+best     131930,        iteration:        764,        time       4.92
+end try 0 
+
+
+try          0,        best     131930,        found at iteration        764,        found at time       4.92

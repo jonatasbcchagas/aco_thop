@@ -1,0 +1,50 @@
+Parameter-settings: 
+
+--inputfile          instances/pr107-thop/pr107_10_bsc_10_03.thop
+--outputfile         solutions/acothop*/pr107-thop/pr107_10_bsc_10_03_06.thop.sol
+--tries              1
+--tours              0
+--ptries             5
+--time               105.00
+--seed               73456
+--optimum            1
+--ants               200
+--nnants             20
+--alpha              0.75
+--beta               3.36
+--rho                0.70
+--q0                 0.00
+--elitistants        0
+--rasranks           0
+--localsearch        0
+--nnls               20
+--dlb                1
+--as                 0
+--eas                0
+--ras                0
+--mmas               1
+--bwas               0
+--acs                0
+
+
+begin try 0 
+best     848602,        iteration:          1,        time       1.41
+best     860435,        iteration:          3,        time       4.24
+best     867090,        iteration:          4,        time       5.68
+best     888162,        iteration:          5,        time       7.11
+best     888375,        iteration:          8,        time      11.41
+best     896497,        iteration:         11,        time      15.69
+best     897516,        iteration:         14,        time      19.97
+best     900595,        iteration:         17,        time      24.23
+best     901492,        iteration:         18,        time      25.65
+best     902960,        iteration:         24,        time      34.20
+best     903748,        iteration:         25,        time      35.64
+best     904694,        iteration:         28,        time      39.92
+best     908774,        iteration:         29,        time      41.34
+best     924238,        iteration:         31,        time      44.22
+best     927421,        iteration:         55,        time      78.72
+best     931109,        iteration:         71,        time     101.55
+end try 0 
+
+
+try          0,        best     931109,        found at iteration         71,        found at time     101.55

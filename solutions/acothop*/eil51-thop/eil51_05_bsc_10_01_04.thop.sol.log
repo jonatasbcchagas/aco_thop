@@ -1,0 +1,50 @@
+Parameter-settings: 
+
+--inputfile          instances/eil51-thop/eil51_05_bsc_10_01.thop
+--outputfile         solutions/acothop*/eil51-thop/eil51_05_bsc_10_01_04.thop.sol
+--tries              1
+--tours              0
+--ptries             4
+--time               25.00
+--seed               547617
+--optimum            1
+--ants               200
+--nnants             20
+--alpha              0.74
+--beta               3.30
+--rho                0.65
+--q0                 0.00
+--elitistants        0
+--rasranks           0
+--localsearch        0
+--nnls               20
+--dlb                1
+--as                 0
+--eas                0
+--ras                0
+--mmas               1
+--bwas               0
+--acs                0
+
+
+begin try 0 
+best     121050,        iteration:          1,        time       0.13
+best     121756,        iteration:          5,        time       0.67
+best     123834,        iteration:          6,        time       0.81
+best     130095,        iteration:          7,        time       0.94
+best     137497,        iteration:          8,        time       1.08
+best     137960,        iteration:          9,        time       1.21
+best     138551,        iteration:         10,        time       1.34
+best     138622,        iteration:         14,        time       1.89
+best     150579,        iteration:         15,        time       2.02
+best     150752,        iteration:         66,        time       8.86
+best     153205,        iteration:         67,        time       9.00
+best     157780,        iteration:         68,        time       9.13
+best     158409,        iteration:         69,        time       9.26
+best     158719,        iteration:         74,        time       9.94
+best     159033,        iteration:         93,        time      12.52
+best     162182,        iteration:        100,        time      13.47
+end try 0 
+
+
+try          0,        best     162182,        found at iteration        100,        found at time      13.47

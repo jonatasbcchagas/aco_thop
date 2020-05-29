@@ -1,0 +1,68 @@
+Parameter-settings: 
+
+--inputfile          instances/a280-thop/a280_03_usw_10_01.thop
+--outputfile         solutions/acothop*/a280-thop/a280_03_usw_10_01_05.thop.sol
+--tries              1
+--tours              0
+--ptries             1
+--time               84.00
+--seed               642580
+--optimum            1
+--ants               500
+--nnants             20
+--alpha              0.88
+--beta               5.28
+--rho                0.48
+--q0                 0.00
+--elitistants        0
+--rasranks           0
+--localsearch        0
+--nnls               20
+--dlb                1
+--as                 0
+--eas                0
+--ras                0
+--mmas               1
+--bwas               0
+--acs                0
+
+
+begin try 0 
+best     159147,        iteration:          1,        time       0.70
+best     162037,        iteration:          3,        time       2.12
+best     178969,        iteration:          4,        time       2.83
+best     180218,        iteration:          6,        time       4.26
+best     181379,        iteration:         11,        time       7.81
+best     184662,        iteration:         12,        time       8.54
+best     189507,        iteration:         13,        time       9.28
+best     193986,        iteration:         17,        time      12.25
+best     195246,        iteration:         18,        time      13.00
+best     198224,        iteration:         19,        time      13.76
+best     198870,        iteration:         24,        time      17.56
+best     199267,        iteration:         25,        time      18.34
+best     199397,        iteration:         26,        time      19.10
+best     199957,        iteration:         27,        time      19.88
+best     200467,        iteration:         28,        time      20.66
+best     200590,        iteration:         30,        time      22.21
+best     202100,        iteration:         31,        time      22.99
+best     203200,        iteration:         33,        time      24.57
+best     203369,        iteration:         36,        time      26.89
+best     205147,        iteration:         38,        time      28.42
+best     208435,        iteration:         39,        time      29.18
+best     209054,        iteration:         41,        time      30.70
+best     209165,        iteration:         42,        time      31.45
+best     209186,        iteration:         44,        time      32.93
+best     209629,        iteration:         46,        time      34.44
+best     209801,        iteration:         49,        time      36.58
+best     210647,        iteration:         51,        time      38.09
+best     210782,        iteration:         55,        time      41.14
+best     211008,        iteration:         58,        time      43.49
+best     212093,        iteration:         68,        time      51.24
+best     213222,        iteration:         89,        time      67.62
+best     213539,        iteration:         90,        time      68.38
+best     213798,        iteration:        104,        time      79.35
+best     214232,        iteration:        111,        time      84.69
+end try 0 
+
+
+try          0,        best     214232,        found at iteration        111,        found at time      84.69

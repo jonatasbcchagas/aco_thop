@@ -1,0 +1,50 @@
+Parameter-settings: 
+
+--inputfile          instances/dsj1000-thop/dsj1000_03_unc_05_03.thop
+--outputfile         solutions/acothop*/dsj1000-thop/dsj1000_03_unc_05_03_09.thop.sol
+--tries              1
+--tours              0
+--ptries             4
+--time               300.00
+--seed               756112
+--optimum            1
+--ants               100
+--nnants             20
+--alpha              2.74
+--beta               5.89
+--rho                0.16
+--q0                 0.00
+--elitistants        0
+--rasranks           0
+--localsearch        0
+--nnls               20
+--dlb                1
+--as                 0
+--eas                0
+--ras                0
+--mmas               1
+--bwas               0
+--acs                0
+
+
+begin try 0 
+best     772223,        iteration:          1,        time       9.49
+best     784923,        iteration:          3,        time      28.49
+best     815040,        iteration:          4,        time      38.08
+best     833136,        iteration:          8,        time      76.94
+best     841782,        iteration:         14,        time     136.30
+best     848504,        iteration:         15,        time     146.19
+best     860728,        iteration:         18,        time     176.09
+best     873620,        iteration:         21,        time     206.08
+best     875552,        iteration:         22,        time     216.08
+best     881380,        iteration:         23,        time     226.14
+best     883135,        iteration:         25,        time     246.50
+best     892716,        iteration:         26,        time     256.79
+best     898907,        iteration:         27,        time     266.93
+best     900305,        iteration:         29,        time     287.44
+best     900482,        iteration:         30,        time     297.63
+best     901588,        iteration:         31,        time     307.84
+end try 0 
+
+
+try          0,        best     901588,        found at iteration         31,        found at time     307.84

@@ -1,0 +1,50 @@
+Parameter-settings: 
+
+--inputfile          instances/pr107-thop/pr107_10_bsc_05_01.thop
+--outputfile         solutions/acothop*/pr107-thop/pr107_10_bsc_05_01_08.thop.sol
+--tries              1
+--tours              0
+--ptries             5
+--time               105.00
+--seed               858990
+--optimum            1
+--ants               200
+--nnants             20
+--alpha              0.75
+--beta               3.36
+--rho                0.70
+--q0                 0.00
+--elitistants        0
+--rasranks           0
+--localsearch        0
+--nnls               20
+--dlb                1
+--as                 0
+--eas                0
+--ras                0
+--mmas               1
+--bwas               0
+--acs                0
+
+
+begin try 0 
+best     380194,        iteration:          1,        time       0.91
+best     400264,        iteration:          2,        time       1.79
+best     428599,        iteration:          3,        time       2.72
+best     432088,        iteration:          7,        time       6.54
+best     445788,        iteration:          8,        time       7.50
+best     449927,        iteration:          9,        time       8.48
+best     450404,        iteration:         11,        time      10.45
+best     450436,        iteration:         12,        time      11.43
+best     450576,        iteration:         13,        time      12.43
+best     451696,        iteration:         14,        time      13.43
+best     452564,        iteration:         18,        time      17.44
+best     453194,        iteration:         21,        time      20.40
+best     455376,        iteration:         24,        time      23.39
+best     455765,        iteration:         26,        time      25.34
+best     455874,        iteration:         27,        time      26.32
+best     456522,        iteration:         28,        time      27.30
+end try 0 
+
+
+try          0,        best     456522,        found at iteration         28,        found at time      27.30

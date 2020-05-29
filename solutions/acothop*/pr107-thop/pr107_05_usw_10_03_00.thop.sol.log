@@ -1,0 +1,79 @@
+Parameter-settings: 
+
+--inputfile          instances/pr107-thop/pr107_05_usw_10_03.thop
+--outputfile         solutions/acothop*/pr107-thop/pr107_05_usw_10_03_00.thop.sol
+--tries              1
+--tours              0
+--ptries             4
+--time               53.00
+--seed               269070
+--optimum            1
+--ants               200
+--nnants             20
+--alpha              0.88
+--beta               2.75
+--rho                0.88
+--q0                 0.00
+--elitistants        0
+--rasranks           0
+--localsearch        0
+--nnls               20
+--dlb                1
+--as                 0
+--eas                0
+--ras                0
+--mmas               1
+--bwas               0
+--acs                0
+
+
+begin try 0 
+best     204773,        iteration:          3,        time       1.54
+best     206565,        iteration:          4,        time       2.06
+best     208406,        iteration:          5,        time       2.58
+best     209494,        iteration:          6,        time       3.11
+best     211224,        iteration:          7,        time       3.63
+best     212863,        iteration:          8,        time       4.16
+best     214867,        iteration:          9,        time       4.68
+best     215624,        iteration:         10,        time       5.20
+best     215721,        iteration:         11,        time       5.71
+best     217070,        iteration:         12,        time       6.24
+best     218005,        iteration:         13,        time       6.77
+best     218748,        iteration:         14,        time       7.29
+best     219109,        iteration:         15,        time       7.82
+best     219727,        iteration:         16,        time       8.34
+best     219744,        iteration:         17,        time       8.87
+best     219800,        iteration:         19,        time       9.91
+best     220274,        iteration:         28,        time      14.66
+best     220617,        iteration:         29,        time      15.19
+best     220998,        iteration:         30,        time      15.72
+best     221088,        iteration:         31,        time      16.25
+best     222175,        iteration:         33,        time      17.30
+best     222214,        iteration:         34,        time      17.82
+best     222431,        iteration:         35,        time      18.36
+best     222527,        iteration:         36,        time      18.90
+best     223021,        iteration:         38,        time      19.96
+best     223120,        iteration:         39,        time      20.49
+best     223676,        iteration:         41,        time      21.56
+best     223974,        iteration:         42,        time      22.09
+best     226118,        iteration:         43,        time      22.62
+best     227090,        iteration:         44,        time      23.16
+best     227106,        iteration:         45,        time      23.69
+best     227202,        iteration:         47,        time      24.76
+best     227243,        iteration:         48,        time      25.29
+best     228203,        iteration:         55,        time      29.03
+best     228227,        iteration:         56,        time      29.57
+best     229251,        iteration:         57,        time      30.11
+best     229311,        iteration:         65,        time      34.41
+best     229322,        iteration:         66,        time      34.95
+best     229543,        iteration:         70,        time      37.10
+best     229678,        iteration:         71,        time      37.62
+best     229730,        iteration:         72,        time      38.16
+best     230009,        iteration:         73,        time      38.69
+best     230143,        iteration:         82,        time      43.53
+best     230247,        iteration:         83,        time      44.06
+best     230318,        iteration:         84,        time      44.60
+end try 0 
+
+
+try          0,        best     230318,        found at iteration         84,        found at time      44.60

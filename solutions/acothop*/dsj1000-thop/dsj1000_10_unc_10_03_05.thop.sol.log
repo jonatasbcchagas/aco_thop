@@ -1,0 +1,50 @@
+Parameter-settings: 
+
+--inputfile          instances/dsj1000-thop/dsj1000_10_unc_10_03.thop
+--outputfile         solutions/acothop*/dsj1000-thop/dsj1000_10_unc_10_03_05.thop.sol
+--tries              1
+--tours              0
+--ptries             1
+--time               998.00
+--seed               642580
+--optimum            1
+--ants               200
+--nnants             20
+--alpha              0.88
+--beta               7.34
+--rho                0.43
+--q0                 0.00
+--elitistants        0
+--rasranks           0
+--localsearch        0
+--nnls               20
+--dlb                1
+--as                 0
+--eas                0
+--ras                0
+--mmas               1
+--bwas               0
+--acs                0
+
+
+begin try 0 
+best    3500948,        iteration:          1,        time      21.65
+best    3680296,        iteration:          2,        time      43.20
+best    3806857,        iteration:          5,        time     107.93
+best    3826723,        iteration:          9,        time     194.88
+best    3874357,        iteration:         10,        time     216.49
+best    3944054,        iteration:         11,        time     238.24
+best    3972179,        iteration:         17,        time     367.90
+best    3984763,        iteration:         20,        time     432.23
+best    4076474,        iteration:         23,        time     497.17
+best    4118554,        iteration:         29,        time     625.77
+best    4131098,        iteration:         31,        time     668.31
+best    4134531,        iteration:         39,        time     838.85
+best    4139130,        iteration:         41,        time     881.48
+best    4145401,        iteration:         42,        time     902.81
+best    4204956,        iteration:         43,        time     923.79
+best    4227061,        iteration:         45,        time     966.35
+end try 0 
+
+
+try          0,        best    4227061,        found at iteration         45,        found at time     966.35

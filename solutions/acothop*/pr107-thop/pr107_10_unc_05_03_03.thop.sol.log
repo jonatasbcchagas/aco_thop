@@ -1,0 +1,79 @@
+Parameter-settings: 
+
+--inputfile          instances/pr107-thop/pr107_10_unc_05_03.thop
+--outputfile         solutions/acothop*/pr107-thop/pr107_10_unc_05_03_03.thop.sol
+--tries              1
+--tours              0
+--ptries             1
+--time               105.00
+--seed               644764
+--optimum            1
+--ants               200
+--nnants             20
+--alpha              0.97
+--beta               3.98
+--rho                0.69
+--q0                 0.00
+--elitistants        0
+--rasranks           0
+--localsearch        0
+--nnls               20
+--dlb                1
+--as                 0
+--eas                0
+--ras                0
+--mmas               1
+--bwas               0
+--acs                0
+
+
+begin try 0 
+best     307283,        iteration:          1,        time       0.28
+best     311415,        iteration:          2,        time       0.57
+best     314619,        iteration:          3,        time       0.87
+best     320022,        iteration:          4,        time       1.16
+best     320083,        iteration:          5,        time       1.46
+best     321956,        iteration:          6,        time       1.76
+best     323107,        iteration:          7,        time       2.06
+best     324000,        iteration:          8,        time       2.37
+best     324849,        iteration:          9,        time       2.65
+best     329261,        iteration:         11,        time       3.25
+best     330547,        iteration:         13,        time       3.85
+best     330807,        iteration:         14,        time       4.15
+best     330923,        iteration:         15,        time       4.45
+best     330948,        iteration:         16,        time       4.74
+best     331032,        iteration:         18,        time       5.33
+best     331262,        iteration:         21,        time       6.23
+best     332794,        iteration:         22,        time       6.52
+best     332950,        iteration:         23,        time       6.82
+best     333360,        iteration:         27,        time       8.02
+best     333966,        iteration:         28,        time       8.32
+best     334478,        iteration:         29,        time       8.62
+best     335052,        iteration:         30,        time       8.92
+best     335199,        iteration:         31,        time       9.22
+best     336197,        iteration:         33,        time       9.82
+best     336319,        iteration:         45,        time      13.40
+best     336332,        iteration:         49,        time      14.59
+best     336910,        iteration:         53,        time      15.78
+best     337297,        iteration:         60,        time      17.87
+best     340722,        iteration:         61,        time      18.17
+best     340873,        iteration:         66,        time      19.67
+best     340891,        iteration:         67,        time      19.97
+best     342113,        iteration:         71,        time      21.17
+best     342271,        iteration:         73,        time      21.77
+best     342330,        iteration:         75,        time      22.37
+best     342345,        iteration:         77,        time      22.96
+best     342907,        iteration:        131,        time      39.10
+best     343170,        iteration:        134,        time      39.97
+best     343175,        iteration:        138,        time      41.16
+best     343187,        iteration:        145,        time      43.25
+best     344860,        iteration:        147,        time      43.84
+best     345542,        iteration:        148,        time      44.14
+best     345563,        iteration:        154,        time      45.93
+best     345743,        iteration:        157,        time      46.83
+best     345893,        iteration:        170,        time      50.71
+best     345900,        iteration:        184,        time      54.89
+end try 0 
+
+
+try          0,        best     345900,        found at iteration        184,        found at time      54.89

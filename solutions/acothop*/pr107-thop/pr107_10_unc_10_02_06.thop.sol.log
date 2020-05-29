@@ -1,0 +1,61 @@
+Parameter-settings: 
+
+--inputfile          instances/pr107-thop/pr107_10_unc_10_02.thop
+--outputfile         solutions/acothop*/pr107-thop/pr107_10_unc_10_02_06.thop.sol
+--tries              1
+--tours              0
+--ptries             1
+--time               105.00
+--seed               73456
+--optimum            1
+--ants               200
+--nnants             20
+--alpha              0.97
+--beta               3.98
+--rho                0.69
+--q0                 0.00
+--elitistants        0
+--rasranks           0
+--localsearch        0
+--nnls               20
+--dlb                1
+--as                 0
+--eas                0
+--ras                0
+--mmas               1
+--bwas               0
+--acs                0
+
+
+begin try 0 
+best     273042,        iteration:          1,        time       0.25
+best     274344,        iteration:          7,        time       1.83
+best     275592,        iteration:          8,        time       2.10
+best     277813,        iteration:         11,        time       2.93
+best     278365,        iteration:         13,        time       3.48
+best     278481,        iteration:         14,        time       3.76
+best     279924,        iteration:         15,        time       4.03
+best     280916,        iteration:         16,        time       4.31
+best     283504,        iteration:         20,        time       5.41
+best     284157,        iteration:         24,        time       6.52
+best     288190,        iteration:         25,        time       6.80
+best     293038,        iteration:         45,        time      12.38
+best     294377,        iteration:         60,        time      16.59
+best     295981,        iteration:         96,        time      26.69
+best     303508,        iteration:        108,        time      30.08
+best     304314,        iteration:        161,        time      44.89
+best     306375,        iteration:        166,        time      46.25
+best     308733,        iteration:        171,        time      47.62
+best     310827,        iteration:        173,        time      48.18
+best     312714,        iteration:        179,        time      49.85
+best     315551,        iteration:        181,        time      50.41
+best     319293,        iteration:        182,        time      50.69
+best     321050,        iteration:        192,        time      53.43
+best     322356,        iteration:        198,        time      55.04
+best     324148,        iteration:        208,        time      57.83
+best     325444,        iteration:        211,        time      58.68
+best     329900,        iteration:        212,        time      58.96
+end try 0 
+
+
+try          0,        best     329900,        found at iteration        212,        found at time      58.96

@@ -1,0 +1,50 @@
+Parameter-settings: 
+
+--inputfile          instances/pr107-thop/pr107_10_unc_10_02.thop
+--outputfile         solutions/acothop*/pr107-thop/pr107_10_unc_10_02_05.thop.sol
+--tries              1
+--tours              0
+--ptries             1
+--time               105.00
+--seed               642580
+--optimum            1
+--ants               200
+--nnants             20
+--alpha              0.97
+--beta               3.98
+--rho                0.69
+--q0                 0.00
+--elitistants        0
+--rasranks           0
+--localsearch        0
+--nnls               20
+--dlb                1
+--as                 0
+--eas                0
+--ras                0
+--mmas               1
+--bwas               0
+--acs                0
+
+
+begin try 0 
+best     263203,        iteration:          1,        time       0.25
+best     274669,        iteration:          2,        time       0.50
+best     275364,        iteration:          4,        time       1.00
+best     290164,        iteration:          5,        time       1.27
+best     296417,        iteration:          7,        time       1.81
+best     298812,        iteration:         26,        time       7.09
+best     300425,        iteration:         34,        time       9.33
+best     300660,        iteration:        276,        time      77.57
+best     300686,        iteration:        291,        time      81.82
+best     305276,        iteration:        293,        time      82.39
+best     305289,        iteration:        312,        time      87.82
+best     305340,        iteration:        332,        time      93.51
+best     306198,        iteration:        333,        time      93.80
+best     310730,        iteration:        346,        time      97.46
+best     311240,        iteration:        350,        time      98.59
+best     312668,        iteration:        364,        time     102.54
+end try 0 
+
+
+try          0,        best     312668,        found at iteration        364,        found at time     102.54

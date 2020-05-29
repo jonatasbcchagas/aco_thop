@@ -1,0 +1,50 @@
+Parameter-settings: 
+
+--inputfile          instances/dsj1000-thop/dsj1000_01_usw_05_02.thop
+--outputfile         solutions/acothop*/dsj1000-thop/dsj1000_01_usw_05_02_05.thop.sol
+--tries              1
+--tours              0
+--ptries             1
+--time               100.00
+--seed               642580
+--optimum            1
+--ants               500
+--nnants             20
+--alpha              0.79
+--beta               8.22
+--rho                0.51
+--q0                 0.00
+--elitistants        0
+--rasranks           0
+--localsearch        0
+--nnls               20
+--dlb                1
+--as                 0
+--eas                0
+--ras                0
+--mmas               1
+--bwas               0
+--acs                0
+
+
+begin try 0 
+best     203232,        iteration:          1,        time       2.54
+best     209007,        iteration:          3,        time       7.65
+best     210016,        iteration:          7,        time      17.92
+best     212864,        iteration:          8,        time      20.51
+best     215971,        iteration:         10,        time      25.66
+best     220271,        iteration:         11,        time      28.26
+best     221130,        iteration:         12,        time      30.86
+best     224714,        iteration:         13,        time      33.45
+best     225547,        iteration:         15,        time      38.65
+best     226853,        iteration:         17,        time      43.95
+best     227289,        iteration:         18,        time      46.63
+best     228669,        iteration:         23,        time      60.16
+best     228770,        iteration:         29,        time      76.52
+best     229303,        iteration:         33,        time      87.48
+best     229383,        iteration:         35,        time      93.01
+best     229522,        iteration:         38,        time     101.27
+end try 0 
+
+
+try          0,        best     229522,        found at iteration         38,        found at time     101.26

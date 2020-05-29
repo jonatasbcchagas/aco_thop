@@ -1,0 +1,51 @@
+Parameter-settings: 
+
+--inputfile          instances/a280-thop/a280_10_unc_05_02.thop
+--outputfile         solutions/acothop*/a280-thop/a280_10_unc_05_02_00.thop.sol
+--tries              1
+--tours              0
+--ptries             1
+--time               278.00
+--seed               269070
+--optimum            1
+--ants               50
+--nnants             20
+--alpha              0.82
+--beta               8.63
+--rho                0.62
+--q0                 0.00
+--elitistants        0
+--rasranks           0
+--localsearch        0
+--nnls               20
+--dlb                1
+--as                 0
+--eas                0
+--ras                0
+--mmas               1
+--bwas               0
+--acs                0
+
+
+begin try 0 
+best     414248,        iteration:          1,        time       0.34
+best     450198,        iteration:          2,        time       0.67
+best     542103,        iteration:          3,        time       1.01
+best     566011,        iteration:          9,        time       3.10
+best     567775,        iteration:         10,        time       3.46
+best     608841,        iteration:         13,        time       4.58
+best     611016,        iteration:         15,        time       5.33
+best     629110,        iteration:         20,        time       7.23
+best     639289,        iteration:         21,        time       7.62
+best     643545,        iteration:         28,        time      10.32
+best     647497,        iteration:         32,        time      11.88
+best     662278,        iteration:         39,        time      14.73
+best     664732,        iteration:         64,        time      24.62
+best     666599,        iteration:         97,        time      37.75
+best     667632,        iteration:        113,        time      43.98
+best     673359,        iteration:        117,        time      45.57
+best     677739,        iteration:        168,        time      65.56
+end try 0 
+
+
+try          0,        best     677739,        found at iteration        168,        found at time      65.56
