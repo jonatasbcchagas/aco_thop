@@ -1,6 +1,6 @@
-# Ants can orienteer a thief in their robbery plan: an ant colony optimization algorithm for the thief orienteering problem
+# Ants can orienteer a thief in their robbery
 
-This project contains the code of the Swarm Intelligence Based on Ant Colony Optimization (ACO), which is described in the paper [*"Ants can orienteer a thief in their robbery * - Jonatas B. C. Chagas and Markus Wagner"](https://), for solving the Thief Orienteering Problem (ThOP).
+This project contains the code of the Swarm Intelligence Based on Ant Colony Optimization (ACO), which is described in the paper ["Ants can orienteer a thief in their robbery - Jonatas B. C. Chagas and Markus Wagner"](https://), for solving the Thief Orienteering Problem (ThOP).
 
 ### Compiling the code
 
