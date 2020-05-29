@@ -1,0 +1,59 @@
+Parameter-settings: 
+
+--inputfile          instances/pr107-thop/pr107_03_unc_05_03.thop
+--outputfile         solutions/acothop/pr107-thop/pr107_03_unc_05_03_03.thop.sol
+--tries              1
+--tours              0
+--ptries             1
+--time               32.00
+--seed               644764
+--optimum            1
+--ants               196
+--nnants             20
+--alpha              1.24
+--beta               5.46
+--rho                0.51
+--q0                 0.00
+--elitistants        0
+--rasranks           0
+--localsearch        0
+--nnls               20
+--dlb                1
+--as                 0
+--eas                0
+--ras                0
+--mmas               1
+--bwas               0
+--acs                0
+
+
+begin try 0 
+best      94345,        iteration:          1,        time       0.08
+best      96352,        iteration:          2,        time       0.16
+best      96942,        iteration:          6,        time       0.47
+best      97216,        iteration:          9,        time       0.71
+best      97530,        iteration:         10,        time       0.79
+best      98110,        iteration:         11,        time       0.87
+best      98236,        iteration:         13,        time       1.03
+best      98363,        iteration:         15,        time       1.19
+best      98384,        iteration:         18,        time       1.43
+best      98546,        iteration:         23,        time       1.83
+best      98641,        iteration:         25,        time       1.99
+best      98672,        iteration:         36,        time       2.86
+best      98914,        iteration:         46,        time       3.64
+best      99432,        iteration:         47,        time       3.72
+best      99575,        iteration:         48,        time       3.80
+best      99592,        iteration:         56,        time       4.42
+best      99672,        iteration:        208,        time      16.50
+best      99713,        iteration:        229,        time      18.18
+best      99785,        iteration:        272,        time      21.61
+best      99790,        iteration:        275,        time      21.84
+best     100258,        iteration:        277,        time      22.00
+best     100353,        iteration:        284,        time      22.56
+best     100357,        iteration:        334,        time      26.54
+best     100399,        iteration:        343,        time      27.25
+best     100477,        iteration:        398,        time      31.60
+end try 0 
+
+
+try          0,        best     100477,        found at iteration        398,        found at time      31.60

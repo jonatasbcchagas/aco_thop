@@ -1,0 +1,50 @@
+Parameter-settings: 
+
+--inputfile          instances/dsj1000-thop/dsj1000_05_bsc_01_03.thop
+--outputfile         solutions/acothop/dsj1000-thop/dsj1000_05_bsc_01_03_07.thop.sol
+--tries              1
+--tours              0
+--ptries             1
+--time               499.00
+--seed               462018
+--optimum            1
+--ants               196
+--nnants             20
+--alpha              1.24
+--beta               5.46
+--rho                0.51
+--q0                 0.00
+--elitistants        0
+--rasranks           0
+--localsearch        0
+--nnls               20
+--dlb                1
+--as                 0
+--eas                0
+--ras                0
+--mmas               1
+--bwas               0
+--acs                0
+
+
+begin try 0 
+best     551750,        iteration:          1,        time       5.01
+best     555013,        iteration:          5,        time      24.00
+best     571835,        iteration:          8,        time      38.10
+best     580607,        iteration:         10,        time      47.10
+best     583908,        iteration:         12,        time      55.62
+best     588245,        iteration:         13,        time      59.30
+best     592657,        iteration:         15,        time      66.37
+best     593025,        iteration:         16,        time      69.86
+best     593241,        iteration:         19,        time      79.98
+best     597329,        iteration:         21,        time      86.40
+best     599772,        iteration:         22,        time      89.83
+best     599810,        iteration:         23,        time      93.10
+best     601706,        iteration:         25,        time      99.79
+best     601984,        iteration:         31,        time     119.43
+best     602022,        iteration:         94,        time     324.62
+best     602394,        iteration:        148,        time     496.31
+end try 0 
+
+
+try          0,        best     602394,        found at iteration        148,        found at time     496.31

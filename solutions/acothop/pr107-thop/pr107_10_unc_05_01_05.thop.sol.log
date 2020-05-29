@@ -1,0 +1,42 @@
+Parameter-settings: 
+
+--inputfile          instances/pr107-thop/pr107_10_unc_05_01.thop
+--outputfile         solutions/acothop/pr107-thop/pr107_10_unc_05_01_05.thop.sol
+--tries              1
+--tours              0
+--ptries             1
+--time               105.00
+--seed               642580
+--optimum            1
+--ants               196
+--nnants             20
+--alpha              1.24
+--beta               5.46
+--rho                0.51
+--q0                 0.00
+--elitistants        0
+--rasranks           0
+--localsearch        0
+--nnls               20
+--dlb                1
+--as                 0
+--eas                0
+--ras                0
+--mmas               1
+--bwas               0
+--acs                0
+
+
+begin try 0 
+best     198699,        iteration:          1,        time       0.18
+best     200783,        iteration:          3,        time       0.56
+best     210985,        iteration:          5,        time       0.92
+best     213990,        iteration:          6,        time       1.11
+best     215126,        iteration:          7,        time       1.31
+best     215180,        iteration:         25,        time       4.82
+best     215433,        iteration:        238,        time      47.27
+best     215871,        iteration:        244,        time      48.47
+end try 0 
+
+
+try          0,        best     215871,        found at iteration        244,        found at time      48.47

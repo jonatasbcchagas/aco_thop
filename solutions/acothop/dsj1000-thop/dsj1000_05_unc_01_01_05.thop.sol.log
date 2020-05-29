@@ -1,0 +1,50 @@
+Parameter-settings: 
+
+--inputfile          instances/dsj1000-thop/dsj1000_05_unc_01_01.thop
+--outputfile         solutions/acothop/dsj1000-thop/dsj1000_05_unc_01_01_05.thop.sol
+--tries              1
+--tours              0
+--ptries             1
+--time               499.00
+--seed               642580
+--optimum            1
+--ants               196
+--nnants             20
+--alpha              1.24
+--beta               5.46
+--rho                0.51
+--q0                 0.00
+--elitistants        0
+--rasranks           0
+--localsearch        0
+--nnls               20
+--dlb                1
+--as                 0
+--eas                0
+--ras                0
+--mmas               1
+--bwas               0
+--acs                0
+
+
+begin try 0 
+best     307838,        iteration:          1,        time       4.15
+best     327496,        iteration:          2,        time       8.43
+best     330528,        iteration:          3,        time      12.62
+best     342959,        iteration:          7,        time      30.32
+best     350667,        iteration:          9,        time      39.32
+best     354517,        iteration:         13,        time      56.73
+best     361181,        iteration:         14,        time      60.95
+best     361969,        iteration:         16,        time      69.61
+best     362652,        iteration:         17,        time      73.97
+best     363017,        iteration:         26,        time     113.57
+best     363616,        iteration:         27,        time     117.90
+best     363688,        iteration:         41,        time     177.42
+best     364159,        iteration:         49,        time     212.31
+best     364720,        iteration:         67,        time     288.06
+best     368123,        iteration:         77,        time     330.65
+best     369879,        iteration:         78,        time     335.15
+end try 0 
+
+
+try          0,        best     369879,        found at iteration         78,        found at time     335.15

@@ -1,0 +1,50 @@
+Parameter-settings: 
+
+--inputfile          instances/dsj1000-thop/dsj1000_03_unc_05_03.thop
+--outputfile         solutions/acothop/dsj1000-thop/dsj1000_03_unc_05_03_07.thop.sol
+--tries              1
+--tours              0
+--ptries             1
+--time               300.00
+--seed               462018
+--optimum            1
+--ants               196
+--nnants             20
+--alpha              1.24
+--beta               5.46
+--rho                0.51
+--q0                 0.00
+--elitistants        0
+--rasranks           0
+--localsearch        0
+--nnls               20
+--dlb                1
+--as                 0
+--eas                0
+--ras                0
+--mmas               1
+--bwas               0
+--acs                0
+
+
+begin try 0 
+best     740730,        iteration:          1,        time       4.78
+best     754453,        iteration:          2,        time       9.58
+best     785938,        iteration:          3,        time      14.38
+best     796424,        iteration:          8,        time      38.61
+best     803565,        iteration:          9,        time      43.53
+best     808678,        iteration:         10,        time      48.48
+best     823621,        iteration:         11,        time      53.35
+best     829971,        iteration:         12,        time      58.28
+best     847555,        iteration:         13,        time      63.18
+best     851898,        iteration:         27,        time     133.44
+best     855753,        iteration:         28,        time     138.56
+best     856511,        iteration:         33,        time     163.78
+best     864415,        iteration:         35,        time     173.82
+best     864462,        iteration:         36,        time     178.85
+best     876258,        iteration:         38,        time     189.02
+best     876594,        iteration:         58,        time     290.21
+end try 0 
+
+
+try          0,        best     876594,        found at iteration         58,        found at time     290.21

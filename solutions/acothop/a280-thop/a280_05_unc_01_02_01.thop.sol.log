@@ -1,0 +1,79 @@
+Parameter-settings: 
+
+--inputfile          instances/a280-thop/a280_05_unc_01_02.thop
+--outputfile         solutions/acothop/a280-thop/a280_05_unc_01_02_01.thop.sol
+--tries              1
+--tours              0
+--ptries             1
+--time               139.00
+--seed               99470
+--optimum            1
+--ants               196
+--nnants             20
+--alpha              1.24
+--beta               5.46
+--rho                0.51
+--q0                 0.00
+--elitistants        0
+--rasranks           0
+--localsearch        0
+--nnls               20
+--dlb                1
+--as                 0
+--eas                0
+--ras                0
+--mmas               1
+--bwas               0
+--acs                0
+
+
+begin try 0 
+best     124871,        iteration:          1,        time       0.48
+best     126925,        iteration:          2,        time       0.98
+best     137605,        iteration:          3,        time       1.47
+best     139155,        iteration:          6,        time       2.99
+best     141931,        iteration:          7,        time       3.52
+best     148017,        iteration:          8,        time       4.03
+best     149506,        iteration:          9,        time       4.49
+best     150661,        iteration:         10,        time       4.99
+best     150963,        iteration:         11,        time       5.46
+best     151381,        iteration:         12,        time       5.95
+best     152192,        iteration:         15,        time       7.40
+best     152402,        iteration:         16,        time       7.87
+best     152537,        iteration:         17,        time       8.34
+best     153002,        iteration:         18,        time       8.84
+best     153333,        iteration:         21,        time      10.24
+best     153680,        iteration:         24,        time      11.65
+best     153746,        iteration:         25,        time      12.13
+best     155309,        iteration:         27,        time      13.02
+best     156895,        iteration:         28,        time      13.51
+best     157072,        iteration:         30,        time      14.49
+best     158189,        iteration:         33,        time      15.92
+best     158915,        iteration:         34,        time      16.41
+best     159832,        iteration:         35,        time      16.88
+best     159918,        iteration:         36,        time      17.32
+best     159946,        iteration:         40,        time      19.13
+best     162795,        iteration:         52,        time      24.63
+best     164488,        iteration:         53,        time      25.11
+best     166453,        iteration:         54,        time      25.61
+best     166709,        iteration:         56,        time      26.52
+best     166726,        iteration:         58,        time      27.39
+best     167102,        iteration:         60,        time      28.25
+best     167558,        iteration:         87,        time      40.48
+best     167689,        iteration:         98,        time      45.51
+best     167997,        iteration:        100,        time      46.43
+best     168006,        iteration:        116,        time      53.75
+best     168333,        iteration:        123,        time      56.87
+best     168401,        iteration:        150,        time      69.33
+best     168666,        iteration:        161,        time      74.25
+best     168791,        iteration:        186,        time      85.58
+best     168832,        iteration:        214,        time      98.33
+best     168848,        iteration:        216,        time      99.26
+best     169475,        iteration:        219,        time     100.65
+best     170105,        iteration:        225,        time     103.28
+best     170330,        iteration:        229,        time     105.07
+best     171046,        iteration:        289,        time     132.65
+end try 0 
+
+
+try          0,        best     171046,        found at iteration        289,        found at time     132.65

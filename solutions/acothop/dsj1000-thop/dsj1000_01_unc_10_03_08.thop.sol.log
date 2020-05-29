@@ -1,0 +1,50 @@
+Parameter-settings: 
+
+--inputfile          instances/dsj1000-thop/dsj1000_01_unc_10_03.thop
+--outputfile         solutions/acothop/dsj1000-thop/dsj1000_01_unc_10_03_08.thop.sol
+--tries              1
+--tours              0
+--ptries             1
+--time               100.00
+--seed               858990
+--optimum            1
+--ants               196
+--nnants             20
+--alpha              1.24
+--beta               5.46
+--rho                0.51
+--q0                 0.00
+--elitistants        0
+--rasranks           0
+--localsearch        0
+--nnls               20
+--dlb                1
+--as                 0
+--eas                0
+--ras                0
+--mmas               1
+--bwas               0
+--acs                0
+
+
+begin try 0 
+best     368253,        iteration:          1,        time       1.53
+best     369386,        iteration:          2,        time       3.02
+best     371623,        iteration:          3,        time       4.55
+best     388675,        iteration:          4,        time       6.12
+best     391300,        iteration:          7,        time      10.67
+best     393294,        iteration:         10,        time      15.22
+best     397685,        iteration:         11,        time      16.80
+best     400198,        iteration:         12,        time      18.31
+best     400362,        iteration:         14,        time      21.32
+best     402505,        iteration:         15,        time      22.81
+best     402701,        iteration:         22,        time      33.45
+best     402727,        iteration:         24,        time      36.57
+best     402830,        iteration:         27,        time      41.11
+best     403466,        iteration:         31,        time      47.32
+best     404555,        iteration:         36,        time      55.00
+best     405085,        iteration:         38,        time      58.03
+end try 0 
+
+
+try          0,        best     405085,        found at iteration         38,        found at time      58.03

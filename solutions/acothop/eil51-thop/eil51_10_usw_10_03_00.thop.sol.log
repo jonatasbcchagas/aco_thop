@@ -1,0 +1,45 @@
+Parameter-settings: 
+
+--inputfile          instances/eil51-thop/eil51_10_usw_10_03.thop
+--outputfile         solutions/acothop/eil51-thop/eil51_10_usw_10_03_00.thop.sol
+--tries              1
+--tours              0
+--ptries             1
+--time               49.00
+--seed               269070
+--optimum            1
+--ants               196
+--nnants             20
+--alpha              1.24
+--beta               5.46
+--rho                0.51
+--q0                 0.00
+--elitistants        0
+--rasranks           0
+--localsearch        0
+--nnls               20
+--dlb                1
+--as                 0
+--eas                0
+--ras                0
+--mmas               1
+--bwas               0
+--acs                0
+
+
+begin try 0 
+best     177676,        iteration:          1,        time       0.08
+best     184164,        iteration:          3,        time       0.25
+best     197977,        iteration:          4,        time       0.33
+best     202557,        iteration:          5,        time       0.41
+best     208647,        iteration:          6,        time       0.50
+best     208843,        iteration:          7,        time       0.58
+best     212590,        iteration:          8,        time       0.66
+best     213253,        iteration:         83,        time       6.81
+best     213563,        iteration:         84,        time       6.89
+best     214007,        iteration:        545,        time      44.67
+best     214071,        iteration:        546,        time      44.75
+end try 0 
+
+
+try          0,        best     214071,        found at iteration        546,        found at time      44.75
